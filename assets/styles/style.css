@@ -1,0 +1,65 @@
+body {
+	background-image:url('../images/bg.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+
+	font-family: 'Lato', sans-serif;
+	
+	
+
+}
+
+/* first */
+h1{
+	color: black;
+	font-size: 50px;
+	font-weight: lighter;
+	margin-bottom: 0;
+
+
+}
+
+/* second */
+h2{
+
+	color: black;
+	font-size: 21px;
+	margin-top: 0;
+	font-family: 'Raleway', sans-serif;
+
+
+}
+
+/* Third */
+.bio{
+	color:black;
+	font-size: 14px;
+
+
+}
+
+
+/* Fourth */
+.me{ 
+
+	height: 150px;
+	border-radius: 50%;
+	border-style: solid;
+	border-color: white;
+	margin-top: 40px;
+
+}
+
+
+#container{
+	width: 500px;
+	margin:	0 auto;
+	text-align: center;
+}
+
+
+}
+
+
+}
